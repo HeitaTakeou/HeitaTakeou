@@ -35,4 +35,4 @@ private void Lucid()
 </p>
 <br>
 
-[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=HeitaTakeou&custom_title=HeitaTakeou%20Trips's%20Contribution%20Graph&theme=dracula&bg_color=202020&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
+[![HeitaTakeou's Activity Graph](https://activity-graph.herokuapp.com/graph?username=HeitaTakeou&custom_title=HeitaTakeou's%20Contribution%20Graph&theme=dracula&bg_color=202020&hide_border=true&line=d1a01f&point=c58545)]()
