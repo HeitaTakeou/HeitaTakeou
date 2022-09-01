@@ -11,17 +11,6 @@
 </div>
 </p>
 
-```c#
-    Console.WriteLine("I'm Heita Takeou :)");
-    Console.WriteLine("I'm a 16 year old student from South Korea");
-    Console.WriteLine("I like to develop cheats in my spare time ;)");
-    Console.WriteLine("Currently working on Echo, a minecraft client");
-    Console.WriteLine("Add me on discord! Lucid.#8549");
-```
-
-<!--
--->
-
 ## My Epic Statistics
 
 <br/>
